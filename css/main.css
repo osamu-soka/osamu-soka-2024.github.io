@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+input[type="submit"] {
+    margin: 4px;
+    padding: 8px;
+    border: 1px solid royalblue;
+    border-radius: 4px;
+    background: linear-gradient(0deg, #007d49, #d2ffaa);
+}
+
+input[type="reset"] {
+    margin: 4px;
+    padding: 8px;
+    border: 1px solid royalblue;
+    border-radius: 4px;
+    background: linear-gradient(45deg, #cf8600, #f4f7b6);
+}
+
+input[type="button"] {
+    margin: 4px;
+    padding: 8px;
+    border: 1px solid royalblue;
+    border-radius: 4px;
+    background: linear-gradient(90deg, #0086f9, #b6d6f7);
+}
